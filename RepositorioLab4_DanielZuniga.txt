@@ -1,0 +1,6 @@
+Daniel Zúñiga Rojas
+Componentes
+Laboratorio 4
+
+En el repositorio está incluido el cuestionario en pdf con las preguntas de beans
+Link repositorio: https://github.com/DanielGit28/Lab-4
